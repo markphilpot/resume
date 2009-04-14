@@ -1,0 +1,138 @@
+#% Do not delete the line below; configure depends on this
+#  \DeclareLaTeXClass[res]{resume}
+# Resume layout.
+# Author : Mark Philpot (markphilpot@mcstudios.net)
+
+Format 2
+Columns                 1
+Sides                   1
+SecNumDepth             -1
+TocDepth                -1
+
+ClassOptions
+   Other    line, margin
+End
+
+Preamble
+
+\usepackage{hyperref}
+
+\def\Cplusplus{{\rm C\raise.5ex\hbox{\small ++}}}
+\def\first{{\raise.5ex\hbox{\small st}}}
+\def\second{{\raise.5ex\hbox{\small nd}}}
+\def\third{{\raise.5ex\hbox{\small rd}}}
+\def\fourth{{\raise.5ex\hbox{\small th}}}
+   
+% Employment Heading
+\begin{format}
+  \employer{l}\title{r}\\
+  \location{l}\dates{r}\\
+  \body\\
+\end{format}
+
+\newsectionwidth{1in}
+
+%use only a bit more page than default
+%was -0.3
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\voffset}{-0.50in}
+%was -.30
+\addtolength{\textwidth}{0.90in}
+\addtolength{\textheight}{1.50in}
+%was .60
+
+\renewcommand{\namefont}{\LARGE\emph}
+\newcommand{\resitem}{$\cdot$ }
+
+EndPreamble
+
+Style Name
+   Margin      Dynamic
+   LatexType   Command
+   LatexName   name
+End
+
+Style Address
+   Margin      Dynamic
+   LatexType   Command
+   LatexName   address
+End
+
+Style Resume
+   Margin      Dynamic
+   LatexType   Environment
+   LatexName   resume
+End
+
+Style Employer
+   Margin      Dynamic
+   LatexType   Command
+   LatexName   employer
+   ParIndent             MM
+	ParSkip               0.4
+   TopSep                0.7
+End
+
+Style Location
+   Margin      Dynamic
+   LatexType   Command
+   LatexName   location
+   ParIndent             MM
+	ParSkip               0.4
+End
+
+Style Title
+   Margin      Dynamic
+   LatexType   Command
+   LatexName   title
+   Align       right
+End
+
+Style Dates
+   Margin      Dynamic
+   LatexType   Command
+   LatexName   dates
+   Align       Right
+End
+
+Style Description
+   Margin      Dynamic
+   LatexType   Environment
+   LatexName   position
+   Newline     1
+End
+
+Style Section
+	Margin                Dynamic
+	LatexType             Command
+	LatexName             section
+	NeedProtect           1
+	NextNoIndent          1
+	LabelSep              xxx
+	ParSkip               0.4
+	TopSep                1.3
+	BottomSep             0.7
+	ParSep                0.7
+	Align                 Block
+	AlignPossible         Block, Left
+	LabelType             No_Label
+	Font
+	  Family              Sans
+	  Series              Bold
+	EndFont
+End
+
+Style Standard
+	Margin                Static
+	LatexType             Paragraph
+	LatexName             dummy
+	ParIndent             MM
+	ParSkip               0.4
+	Align                 Block
+	AlignPossible         Block, Left, Right, Center
+	LabelType             No_Label
+End
+
+
+Input stdfloats.inc
+Input stdcounters.inc

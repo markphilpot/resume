@@ -1,0 +1,601 @@
+#LyX 1.5.6 created this file. For more info see http://www.lyx.org/
+\lyxformat 276
+\begin_document
+\begin_header
+\textclass resume
+\begin_preamble
+\hypersetup{backref, pdfpagemode=None, colorlinks=true,backref}
+\end_preamble
+\options line, margin
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize default
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 0
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Name
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+Mark Philpot
+\end_layout
+
+\begin_layout Address
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+href{mailto:mark.philpot@lmco.com}{mark.philpot@lmco.com}
+\end_layout
+
+\end_inset
+
+ -- 
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+href{mailto:markphilpot@mcstudios.net}{markphilpot@mcstudios.net}
+\end_layout
+
+\end_inset
+
+ -- 
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+href{http://www.mcstudios.net}{www.mcstudios.net}
+\end_layout
+
+\end_inset
+
+ --
+\end_layout
+
+\begin_layout Address
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+href{http://www.markphilpot.net}{www.markphilpot.net}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Resume
+_remove before generation_
+\end_layout
+
+\begin_deeper
+\begin_layout Section
+Objective
+\end_layout
+
+\begin_layout Standard
+Technical lead or software architect designing and implmenting challenging
+ new systems using the latest practices and technologies.
+\end_layout
+
+\begin_layout Section
+Education
+\end_layout
+
+\begin_layout Employer
+
+\series bold
+Duke University
+\end_layout
+
+\begin_layout Location
+Durham, NC
+\end_layout
+
+\begin_layout Title
+
+\emph on
+BSE - Electrical Engineering, Computer Science
+\end_layout
+
+\begin_layout Dates
+August 1999 -- May 2003
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ 3.7 Major GPA
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ CS Coursework: Advanced program design in C, 
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+Cplusplus
+\end_layout
+
+\end_inset
+
+, Java; computer architecture, operating systems, networking, web technologies
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ EE Coursework: Circuit design/analysis, VLSI design, linear system theory,
+ semiconductors, digital signal processing, networking
+\end_layout
+
+\begin_layout Section
+Experience
+\end_layout
+
+\begin_layout Employer
+
+\series bold
+Lockheed Martin
+\end_layout
+
+\begin_layout Location
+Gaithersburg, MD
+\end_layout
+
+\begin_layout Title
+
+\emph on
+Software Engineer
+\end_layout
+
+\begin_layout Dates
+August 2005 -- Present
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Design and develop software for Global Positioning System (GPS) IIF program
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ IPT Software Lead - successfully completed v5.5 CUT ahead of schedule in
+ August, 2005, CIT/PAEC in May, 2006
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Software Metrics Lead - designed and implemented more accurate and efficient
+ metrics collection system, interfaced with customer senior management
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Supported on-site customer test and rehearsal events for AEP transition.
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ SPOT awards (2005, 2006) -- SRA award (2006)
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ LM21 Certified Greenbelt (2006)
+\end_layout
+
+\begin_layout Employer
+
+\series bold
+Lockheed Martin
+\end_layout
+
+\begin_layout Location
+Gaithersburg, MD
+\end_layout
+
+\begin_layout Title
+
+\emph on
+Associate Software Engineer
+\end_layout
+
+\begin_layout Dates
+September 2003 -- August 2005
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Developed software for GPS IIF program
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Promoted to IPT Software Lead for v5.5 to manage 12 developers and direct
+ design and implementation
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Selected by customer to support test activity at Vandenberg AFB
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ DOD Secret Clearance, December 2003
+\end_layout
+
+\begin_layout Employer
+
+\series bold
+Naval Postgraduate School
+\end_layout
+
+\begin_layout Location
+Monterey, CA
+\end_layout
+
+\begin_layout Title
+
+\emph on
+Research Assistant
+\end_layout
+
+\begin_layout Dates
+May 2002 -- August 2002
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Researched MANET ad-hoc networking protocols using OPNET for Unmanned Aerial
+ Vehicle (UAV) networking project and satellite radio technology
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Initiated set up of a ground station test bed for coordination with Stanford
+ Space Development Laboratory's Ground Station Markup Language (GSML) project.
+ Received Technician FCC license
+\end_layout
+
+\begin_layout Employer
+
+\series bold
+Duke University Marching Band
+\end_layout
+
+\begin_layout Location
+Durham, NC
+\end_layout
+
+\begin_layout Title
+
+\emph on
+Web Master
+\end_layout
+
+\begin_layout Dates
+May 2001 -- Present
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Designed interactive PHP/MySQL website to organize, store, and maintain
+ band roster, attendance, tournament entries, etc 
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+href{http://www.duke.edu/web/DUMB/}{www.duke.edu/web/DUMB/}
+\end_layout
+
+\end_inset
+
+
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Drum Major (2002-2003) - elected to lead and manage band, including live
+ performances and rehearsals
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Created cover art and designed layout for the first band CD 
+\begin_inset Quotes eld
+\end_inset
+
+Blue & White
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Publications
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Authentication and Trust in Decentralized Event Notification
+\emph default
+
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Presented at 2003 International Conference on Telecommunications Systems,
+ Modeling and Analysis (Monterey, CA) and published in conference proceedings
+\end_layout
+
+\begin_layout Section
+Hobbies
+\end_layout
+
+\begin_layout Standard
+Music, photography, road biking, skiing, basketball, soccer
+\end_layout
+
+\begin_layout Section
+References
+\end_layout
+
+\begin_layout Standard
+By request
+\end_layout
+
+\end_body
+\end_document
