@@ -38,6 +38,7 @@
 \tracking_changes false
 \output_changes false
 \author "" 
+\author "" 
 \end_header
 
 \begin_body
@@ -94,27 +95,11 @@ href{http://www.mcstudios.net}{www.mcstudios.net}
 
 \end_inset
 
- --
-\end_layout
-
-\begin_layout Address
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-href{http://www.markphilpot.net}{www.markphilpot.net}
-\end_layout
-
-\end_inset
-
 
 \end_layout
 
 \begin_layout Resume
-_remove before generation_
+_remove before generation -- Do not save without this line_
 \end_layout
 
 \begin_deeper
@@ -222,7 +207,90 @@ Lockheed Martin
 \end_layout
 
 \begin_layout Location
-Gaithersburg, MD
+San Jose, CA
+\end_layout
+
+\begin_layout Title
+
+\emph on
+Sofware Engineer Senior
+\end_layout
+
+\begin_layout Dates
+June 2008 -- Present
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Demonstrator IPT Lead, software lead for TMOS prototyping efforts
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Led User Interface design & implementation to support Outreach efforts
+ to user community.
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Coordinated prototyping efforts across multiple software IPTs for integrated
+ early prototype release.
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ SRA Award (2008)
+\end_layout
+
+\begin_layout Employer
+
+\series bold
+Lockheed Martin
+\end_layout
+
+\begin_layout Location
+Gaithersburg, MD | San Jose, CA
 \end_layout
 
 \begin_layout Title
@@ -232,10 +300,26 @@ Software Engineer
 \end_layout
 
 \begin_layout Dates
-August 2005 -- Present
+August 2005 -- June 2008
 \end_layout
 
 \begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ Deputy team lead for Demonstrator IPT.
+ Manage techincal content and lead integration efforts
+\newline
+
 \begin_inset ERT
 status open
 
@@ -263,8 +347,8 @@ resitem
 
 \end_inset
 
- IPT Software Lead - successfully completed v5.5 CUT ahead of schedule in
- August, 2005, CIT/PAEC in May, 2006
+ IPT Software Lead - Completed v5.5 CUT ahead of schedule in August, 2005,
+ CIT/PAEC in May, 2006
 \newline
 
 \begin_inset ERT
@@ -279,8 +363,7 @@ resitem
 
 \end_inset
 
- Software Metrics Lead - designed and implemented more accurate and efficient
- metrics collection system, interfaced with customer senior management
+ Software Metrics Lead - designed and implemented metrics collection system
 \newline
 
 \begin_inset ERT
@@ -310,22 +393,7 @@ resitem
 
 \end_inset
 
- SPOT awards (2005, 2006) -- SRA award (2006)
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- LM21 Certified Greenbelt (2006)
+ SPOT Awards (2005, 2006), SRA Award (2006), LM21 Certified Greenbelt (2006)
 \end_layout
 
 \begin_layout Employer
@@ -335,7 +403,7 @@ Lockheed Martin
 \end_layout
 
 \begin_layout Location
-Gaithersburg, MD
+Gaithersburg, MD (GPS IIF)
 \end_layout
 
 \begin_layout Title
@@ -392,21 +460,6 @@ resitem
 
 \end_inset
 
- Selected by customer to support test activity at Vandenberg AFB
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
  DOD Secret Clearance, December 2003
 \end_layout
 
@@ -427,26 +480,10 @@ Research Assistant
 \end_layout
 
 \begin_layout Dates
-May 2002 -- August 2002
+Summer 2002
 \end_layout
 
 \begin_layout Description
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- Researched MANET ad-hoc networking protocols using OPNET for Unmanned Aerial
- Vehicle (UAV) networking project and satellite radio technology
-\newline
-
 \begin_inset ERT
 status open
 
@@ -497,8 +534,7 @@ resitem
 
 \end_inset
 
- Designed interactive PHP/MySQL website to organize, store, and maintain
- band roster, attendance, tournament entries, etc 
+ Designed, implemented & maintain PHP/MySQL website 
 \begin_inset ERT
 status open
 
@@ -509,45 +545,6 @@ status open
 href{http://www.duke.edu/web/DUMB/}{www.duke.edu/web/DUMB/}
 \end_layout
 
-\end_inset
-
-
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- Drum Major (2002-2003) - elected to lead and manage band, including live
- performances and rehearsals
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- Created cover art and designed layout for the first band CD 
-\begin_inset Quotes eld
-\end_inset
-
-Blue & White
-\begin_inset Quotes erd
 \end_inset
 
 
@@ -579,6 +576,17 @@ resitem
 
  Presented at 2003 International Conference on Telecommunications Systems,
  Modeling and Analysis (Monterey, CA) and published in conference proceedings
+\end_layout
+
+\begin_layout Section
+Core Skills
+\end_layout
+
+\begin_layout Standard
+Java (Ant, Maven, Nexus, Eclipse, Spring, JAX-WS|RS, JPA), Web (Javascript,
+ Extjs, PHP, JSON), Database (Design, MySQL, Oracle, ORM), SOA (SOAP, WSDL,
+ REST, XML, Schema), C++, CM (Clearcase, Git), Scripting (Python, Pearl),
+ Software Design (User Interface, UML)
 \end_layout
 
 \begin_layout Section
