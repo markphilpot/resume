@@ -104,67 +104,13 @@ _remove before generation -- Do not save without this line_
 
 \begin_deeper
 \begin_layout Section
-Objective
+Core Skills
 \end_layout
 
 \begin_layout Standard
-Technical lead or software architect designing and implmenting challenging
- new systems using the latest practices and technologies.
-\end_layout
-
-\begin_layout Section
-Education
-\end_layout
-
-\begin_layout Employer
-
-\series bold
-Duke University
-\end_layout
-
-\begin_layout Location
-Durham, NC
-\end_layout
-
-\begin_layout Title
-
-\emph on
-BSE - Electrical Engineering, Computer Science
-\end_layout
-
-\begin_layout Dates
-August 1999 -- May 2003
-\end_layout
-
-\begin_layout Description
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- 3.7 Major GPA
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- CS Coursework: Advanced program design in C, 
+Java (Ant, Maven, Nexus, Eclipse, Spring, JAX-WS|RS, JPA), Web (Javascript,
+ Extjs, PHP, JSON), Database (Design, MySQL, Oracle, ORM), SOA (SOAP, WSDL,
+ REST, XML, Schema), 
 \begin_inset ERT
 status open
 
@@ -177,23 +123,8 @@ Cplusplus
 
 \end_inset
 
-, Java; computer architecture, operating systems, networking, web technologies
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- EE Coursework: Circuit design/analysis, VLSI design, linear system theory,
- semiconductors, digital signal processing, networking
+, CM (Clearcase, Git, Subversion, CVS), Scripting (Perl), Software Design
+ (User Interface, UML)
 \end_layout
 
 \begin_layout Section
@@ -213,7 +144,7 @@ San Jose, CA
 \begin_layout Title
 
 \emph on
-Sofware Engineer Senior
+Senior Software Engineer
 \end_layout
 
 \begin_layout Dates
@@ -249,7 +180,7 @@ resitem
 \end_inset
 
  Led User Interface design & implementation to support Outreach efforts
- to user community.
+ to user community
 \newline
 
 \begin_inset ERT
@@ -265,7 +196,7 @@ resitem
 \end_inset
 
  Coordinated prototyping efforts across multiple software IPTs for integrated
- early prototype release.
+ early prototype release
 \newline
 
 \begin_inset ERT
@@ -317,7 +248,7 @@ resitem
 \end_inset
 
  Deputy team lead for Demonstrator IPT.
- Manage techincal content and lead integration efforts
+ Manage technical content and lead integration efforts
 \newline
 
 \begin_inset ERT
@@ -551,6 +482,90 @@ href{http://www.duke.edu/web/DUMB/}{www.duke.edu/web/DUMB/}
 \end_layout
 
 \begin_layout Section
+Education
+\end_layout
+
+\begin_layout Employer
+
+\series bold
+Duke University
+\end_layout
+
+\begin_layout Location
+Durham, NC
+\end_layout
+
+\begin_layout Title
+
+\emph on
+BSE - Electrical Engineering, Computer Science
+\end_layout
+
+\begin_layout Dates
+August 1999 -- May 2003
+\end_layout
+
+\begin_layout Description
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ 3.7 Major GPA
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ CS Coursework: Advanced program design in C, 
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+Cplusplus
+\end_layout
+
+\end_inset
+
+, Java; computer architecture, operating systems, networking, web technologies
+\newline
+
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ EE Coursework: Circuit design/analysis, VLSI design, linear system theory,
+ semiconductors, digital signal processing, networking
+\end_layout
+
+\begin_layout Section
 Publications
 \end_layout
 
@@ -576,17 +591,6 @@ resitem
 
  Presented at 2003 International Conference on Telecommunications Systems,
  Modeling and Analysis (Monterey, CA) and published in conference proceedings
-\end_layout
-
-\begin_layout Section
-Core Skills
-\end_layout
-
-\begin_layout Standard
-Java (Ant, Maven, Nexus, Eclipse, Spring, JAX-WS|RS, JPA), Web (Javascript,
- Extjs, PHP, JSON), Database (Design, MySQL, Oracle, ORM), SOA (SOAP, WSDL,
- REST, XML, Schema), C++, CM (Clearcase, Git), Scripting (Python, Pearl),
- Software Design (User Interface, UML)
 \end_layout
 
 \begin_layout Section
