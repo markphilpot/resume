@@ -123,8 +123,8 @@ Cplusplus
 , Java (Ant, Maven, Nexus, Eclipse, Spring, JAX-WS|RS, JPA), Web (Javascript,
  Extjs, JSON), PHP (Zend, Smarty, PEAR), Database (Design, MySQL, Oracle,
  ORM), SOA (SOAP, WSDL, REST, XML, Schema), Software Design (MVC, User Interface
-, UML), Scripting (Bash, Perl), SCM (Clearcase, Git, Subversion, CVS), Networkin
-g, OS (Linux, Unix, Solaris, Windows)
+, UML), Scripting (Bash, Perl, Python), SCM (Clearcase, Git, Subversion,
+ CVS), Networking, OS (Linux, Unix, Solaris, Windows)
 \end_layout
 
 \begin_layout Section
@@ -375,7 +375,20 @@ resitem
 
 \end_inset
 
- Developed software for GPS IIF program
+ Developed software for GPS IIF program (
+\begin_inset ERT
+status open
+
+\begin_layout Name
+
+
+\backslash
+Cplusplus
+\end_layout
+
+\end_inset
+
+)
 \newline
 
 \begin_inset ERT
@@ -488,7 +501,7 @@ status open
 
 
 \backslash
-href{http://www.duke.edu/web/DUMB/}{www.duke.edu/web/DUMB/}
+href{http://www.dukeband.org}{www.dukeband.org}
 \end_layout
 
 \end_inset
@@ -621,7 +634,10 @@ References
 \end_layout
 
 \begin_layout Standard
-By request
+Kent Hoxsey (Lockheed Martin) khoxsey@gmail.com | (408) 605-3751
+\newline
+Rick Thorne
+ (Lockheed Martin) rick.thorne@lmco.com | (610) 639-4286
 \end_layout
 
 \end_body
