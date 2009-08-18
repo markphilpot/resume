@@ -1,5 +1,5 @@
-#LyX 1.5.6 created this file. For more info see http://www.lyx.org/
-\lyxformat 276
+#LyX 1.6.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
 \begin_document
 \begin_header
 \textclass resume
@@ -7,6 +7,7 @@
 \hypersetup{backref, pdfpagemode=None, colorlinks=true,backref}
 \end_preamble
 \options line, margin
+\use_default_options false
 \language english
 \inputencoding auto
 \font_roman default
@@ -17,9 +18,11 @@
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
+
 \graphics default
 \paperfontsize default
 \spacing single
+\use_hyperref false
 \papersize default
 \use_geometry false
 \use_amsmath 1
@@ -60,7 +63,7 @@ Mark Philpot
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -73,7 +76,7 @@ href{mailto:mark.philpot@lmco.com}{mark.philpot@lmco.com}
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -86,7 +89,7 @@ href{mailto:markphilpot@mcstudios.net}{markphilpot@mcstudios.net}
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -111,7 +114,7 @@ Core Skills
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -121,10 +124,10 @@ Cplusplus
 \end_inset
 
 , Java (Ant, Maven, Nexus, Eclipse, Spring, JAX-WS|RS, JPA), Web (Javascript,
- Extjs, JSON), PHP (Zend, Smarty, PEAR), Database (Design, MySQL, Oracle,
+ extjs framework, JSON), PHP (Smarty, PEAR), Database (Design, MySQL, Oracle,
  ORM), SOA (SOAP, WSDL, REST, XML, Schema), Software Design (MVC, User Interface
-, UML), Scripting (Bash, Perl), SCM (Clearcase, Git, Subversion, CVS), Networkin
-g, OS (Linux, Unix, Solaris, Windows)
+, UML), Scripting (Bash, Perl, Python), SCM (Clearcase, Git, Subversion,
+ CVS), Networking, OS (Linux, Unix, Solaris, Windows)
 \end_layout
 
 \begin_layout Section
@@ -155,7 +158,7 @@ June 2008 -- Present
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -164,14 +167,17 @@ resitem
 
 \end_inset
 
- TMOS Demonstrator IPT Lead, software lead for SOA-based prototyping efforts
- using Java
-\newline
+ TMOS Demonstrator IPT Software Lead.
+ Led SOA-based prototyping efforts using Java stack (Tomcat, JBoss, Hibernate
+ with MySQL, JAX-RS|WS) using an Iterative Development model
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -180,14 +186,17 @@ resitem
 
 \end_inset
 
- Led User Interface design & implementation to support Outreach efforts
- to user community
-\newline
+ Led User Interface design and implementation to support Outreach efforts
+ to user community (Tomcat deployment with Spring, JSP, Javascript toolkit
+ extjs for UI)
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -198,12 +207,14 @@ resitem
 
  Coordinated prototyping across multiple software IPTs for integrated early
  functional prototype release
-\newline
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -239,7 +250,7 @@ August 2005 -- June 2008
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -248,43 +259,16 @@ resitem
 
 \end_inset
 
- Deputy team lead for Demonstrator IPT.
- Manage technical content and lead integration efforts
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
+ TMOS Demonstrator IPT Deputy Software Lead - Managed technical content
+ and led integration efforts
+\begin_inset Newline newline
 \end_inset
 
- Design and develop software for Global Positioning System (GPS) IIF program
- (
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-Cplusplus
-\end_layout
-
-\end_inset
-
-)
-\newline
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -295,27 +279,14 @@ resitem
 
  GPS IPT Software Lead - Led 120KSLOC upgrade ahead of schedule with lowest
  defect rate on program
-\newline
-
-\begin_inset ERT
-status open
-
-\begin_layout Name
-
-
-\backslash
-resitem
-\end_layout
-
+\begin_inset Newline newline
 \end_inset
 
- Software Metrics Lead - designed and implemented metrics collection system
-\newline
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -325,12 +296,14 @@ resitem
 \end_inset
 
  Supported on-site customer test and rehearsal events for AEP transition
-\newline
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -366,7 +339,7 @@ September 2003 -- August 2005
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -375,13 +348,28 @@ resitem
 
 \end_inset
 
- Developed software for GPS IIF program
-\newline
+ Developed 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+Cplusplus
+\end_layout
+
+\end_inset
+
+ client/server software for GPS IIF program
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -390,14 +378,16 @@ resitem
 
 \end_inset
 
- Promoted to IPT Software Lead for v5.5 to manage 12 developers and direct
- design and implementation
-\newline
+ Promoted to IPT Software Lead to manage 12 developers and direct design
+ and implementation using Agile/SCRUM principals
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -433,7 +423,7 @@ Summer 2002
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -471,7 +461,7 @@ May 2001 -- Present
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -480,15 +470,15 @@ resitem
 
 \end_inset
 
- Designed, implemented & maintain custom PHP/MySQL website 
+ Designed, implemented and maintained custom PHP/MySQL website 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
-href{http://www.duke.edu/web/DUMB/}{www.duke.edu/web/DUMB/}
+href{http://www.dukeband.org/}{www.dukeband.org/}
 \end_layout
 
 \end_inset
@@ -524,7 +514,7 @@ August 1999 -- May 2003
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -534,12 +524,14 @@ resitem
 \end_inset
 
  3.7 Major GPA
-\newline
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -552,7 +544,7 @@ resitem
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -562,12 +554,14 @@ Cplusplus
 \end_inset
 
 , Java; computer architecture, operating systems, networking, web technologies
-\newline
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -590,12 +584,14 @@ Publications
 Authentication and Trust in Decentralized Event Notification
 \emph default
 
-\newline
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset ERT
 status open
 
-\begin_layout Name
+\begin_layout Plain Layout
 
 
 \backslash
@@ -624,5 +620,6 @@ References
 By request
 \end_layout
 
+\end_deeper
 \end_body
 \end_document
