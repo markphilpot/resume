@@ -1,4 +1,4 @@
-#LyX 1.6.2 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.4 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -80,7 +80,7 @@ status open
 
 
 \backslash
-href{mailto:markphilpot@mcstudios.net}{markphilpot@mcstudios.net}
+href{mailto:mark.philpot@gmail.com}{mark.philpot@gmail.com}
 \end_layout
 
 \end_inset
@@ -124,10 +124,10 @@ Cplusplus
 \end_inset
 
 , Java (Ant, Maven, Nexus, Eclipse, Spring, JAX-WS|RS, JPA), Web (Javascript,
- extjs framework, JSON), PHP (Smarty, PEAR), Database (Design, MySQL, Oracle,
- ORM), SOA (SOAP, WSDL, REST, XML, Schema), Software Design (MVC, User Interface
-, UML), Scripting (Bash, Perl, Python), SCM (Clearcase, Git, Subversion,
- CVS), Networking, OS (Linux, Unix, Solaris, Windows)
+ extjs, jQuery, JSON), PHP (Smarty, PEAR), Python, Database (Design, MySQL,
+ Oracle, ORM), SOA (SOAP, WSDL, REST, XML, Schema), Software Design (MVC,
+ User Interface, UML), Scripting (Bash, Perl, Python), SCM (Clearcase, Git,
+ Subversion, CVS), Networking, OS (Linux, Unix, Solaris, Windows)
 \end_layout
 
 \begin_layout Section
@@ -167,7 +167,7 @@ resitem
 
 \end_inset
 
- TMOS Demonstrator IPT Software Lead.
+ TMOS (Satellite Communication Platform) IPT Software Lead.
  Led SOA-based prototyping efforts using Java stack (Tomcat, JBoss, Hibernate
  with MySQL, JAX-RS|WS) using an Iterative Development model
 \begin_inset Newline newline
@@ -186,9 +186,8 @@ resitem
 
 \end_inset
 
- Led User Interface design and implementation to support Outreach efforts
- to user community (Tomcat deployment with Spring, JSP, Javascript toolkit
- extjs for UI)
+ Led UI design and implementation to support Outreach efforts to user community
+ (Tomcat deployment with Spring, JSP, extjs, Google Maps)
 \begin_inset Newline newline
 \end_inset
 
@@ -223,7 +222,38 @@ resitem
 
 \end_inset
 
- SRA Award (2008)
+ Service Recognition Award (SRA) (2008), SPOT Award (2009)
+\begin_inset Newline newline
+\end_inset
+
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+Cplusplus
+\end_layout
+
+\end_inset
+
+ MFC design and development (July 2009 to present)
 \end_layout
 
 \begin_layout Employer
@@ -259,8 +289,8 @@ resitem
 
 \end_inset
 
- TMOS Demonstrator IPT Deputy Software Lead - Managed technical content
- and led integration efforts
+ TMOS IPT Deputy Software Lead - Managed technical content and led integration
+ efforts
 \begin_inset Newline newline
 \end_inset
 
@@ -277,8 +307,8 @@ resitem
 
 \end_inset
 
- GPS IPT Software Lead - Led 120KSLOC upgrade ahead of schedule with lowest
- defect rate on program
+ GPS (Global Positioning System) IPT Software Lead - Led 120KSLOC upgrade
+ ahead of schedule with lowest defect rate on program
 \begin_inset Newline newline
 \end_inset
 
@@ -312,7 +342,7 @@ resitem
 
 \end_inset
 
- SPOT Awards (2005, 2006), SRA Award (2006), LM21 Certified Greenbelt (2006)
+ SPOT Awards (2005, 2006), SRA Award (2006), LM21 Six Sigma (2006)
 \end_layout
 
 \begin_layout Employer
@@ -478,7 +508,7 @@ status open
 
 
 \backslash
-href{http://www.dukeband.org/}{www.dukeband.org/}
+href{http://www.dukeband.org/}{www.dukeband.org}
 \end_layout
 
 \end_inset
@@ -605,11 +635,36 @@ resitem
 \end_layout
 
 \begin_layout Section
-Hobbies
+Casual Development
 \end_layout
 
 \begin_layout Standard
-Music, photography, road biking, skiing, basketball, soccer
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+href{http://wwww.isupergp.com/}{www.isupergp.com}
+\end_layout
+
+\end_inset
+
+ Mobile web application (iPhone, WebKit) for password management
 \end_layout
 
 \begin_layout Section
