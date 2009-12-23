@@ -11,9 +11,9 @@
 \language english
 \inputencoding auto
 \font_roman default
-\font_sans default
+\font_sans helvet
 \font_typewriter default
-\font_default_family default
+\font_default_family sfdefault
 \font_sc false
 \font_osf false
 \font_sf_scale 100
@@ -225,7 +225,6 @@ resitem
  Service Recognition Award (SRA) (2008), SPOT Award (2009)
 \begin_inset Newline newline
 \end_inset
-
 
 
 \begin_inset ERT
