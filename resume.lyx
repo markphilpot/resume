@@ -107,10 +107,25 @@ _remove before generation -- Do not save without this line_
 
 \begin_deeper
 \begin_layout Section
+Summary
+\end_layout
+
+\begin_layout Standard
+Senior Software Engineer with a diverse technical background in software
+ and systems development with leadership experience and strong communication
+ and technical skills
+\end_layout
+
+\begin_layout Section
 Core Skills
 \end_layout
 
 \begin_layout Standard
+
+\noun on
+Languages:
+\noun default
+ 
 \begin_inset ERT
 status open
 
@@ -123,11 +138,40 @@ Cplusplus
 
 \end_inset
 
-, Java (Ant, Maven, Nexus, Eclipse, Spring, JAX-WS|RS, JPA), Web (Javascript,
- extjs, jQuery, JSON), PHP (Smarty, PEAR), Python, Database (Design, MySQL,
- Oracle, ORM), SOA (SOAP, WSDL, REST, XML, Schema), Software Design (MVC,
- User Interface, UML), Scripting (Bash, Perl, Python), SCM (Clearcase, Git,
- Subversion, CVS), Networking, OS (Linux, Unix, Solaris, Windows)
+, Java, PHP, Python, Javascript, Perl
+\begin_inset Newline newline
+\end_inset
+
+
+\noun on
+Frameworks:
+\noun default
+ Spring, extjs, Smarty, PEAR, jQuery
+\noun on
+
+\begin_inset Newline newline
+\end_inset
+
+Exchange:
+\noun default
+ JAX-WS|RS, JPA, SOAP, WSDL, REST, XML, Schema, JSON
+\noun on
+
+\begin_inset Newline newline
+\end_inset
+
+Environment:
+\noun default
+ MySQL, Oracle, Maven, Eclipse, Clearcase, Git, Subversion, Linux, Unix,
+ Windows
+\begin_inset Newline newline
+\end_inset
+
+
+\noun on
+Clearance:
+\noun default
+ DOD Secret
 \end_layout
 
 \begin_layout Section
@@ -167,9 +211,9 @@ resitem
 
 \end_inset
 
- TMOS (Satellite Communication Platform) IPT Software Lead.
- Led SOA-based prototyping efforts using Java stack (Tomcat, JBoss, Hibernate
- with MySQL, JAX-RS|WS) using an Iterative Development model
+ TMOS (Satellite Communication Platform) Software Lead.
+ Led SOA-based prototyping efforts with Java stack using Agile/SCRUM development
+ methodology
 \begin_inset Newline newline
 \end_inset
 
@@ -186,8 +230,8 @@ resitem
 
 \end_inset
 
- Led UI design and implementation to support Outreach efforts to user community
- (Tomcat deployment with Spring, JSP, extjs, Google Maps)
+ Led UI design and implementation to support customer outreach efforts to
+ user community
 \begin_inset Newline newline
 \end_inset
 
@@ -204,7 +248,7 @@ resitem
 
 \end_inset
 
- Coordinated prototyping across multiple software IPTs for integrated early
+ Coordinated prototyping across multiple software teams for integrated early
  functional prototype release
 \begin_inset Newline newline
 \end_inset
@@ -222,7 +266,7 @@ resitem
 
 \end_inset
 
- Service Recognition Award (SRA) (2008), SPOT Award (2009)
+ Windows MFC design and development (July 2009 to present)
 \begin_inset Newline newline
 \end_inset
 
@@ -239,20 +283,8 @@ resitem
 
 \end_inset
 
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-Cplusplus
-\end_layout
-
-\end_inset
-
- MFC design and development (July 2009 to present)
+ Technologies Used: Java, Tomcat, JBoss, Hibernate, MySQL, JAX-RS|WS, WSDL,
+ XML, Spring, JSP, extjs, JSON, Google Maps, Windows MFC, Oracle
 \end_layout
 
 \begin_layout Employer
@@ -288,7 +320,7 @@ resitem
 
 \end_inset
 
- TMOS IPT Deputy Software Lead - Managed technical content and led integration
+ TMOS Deputy Software Lead - Managed technical content and led integration
  efforts
 \begin_inset Newline newline
 \end_inset
@@ -306,8 +338,8 @@ resitem
 
 \end_inset
 
- GPS (Global Positioning System) IPT Software Lead - Led 120KSLOC upgrade
- ahead of schedule with lowest defect rate on program
+ GPS (Global Positioning System) Software Lead - Led 120KSLOC upgrade ahead
+ of schedule with lowest defect rate on program
 \begin_inset Newline newline
 \end_inset
 
@@ -324,7 +356,7 @@ resitem
 
 \end_inset
 
- Supported on-site customer test and rehearsal events for AEP transition
+ Supported on-site customer test and rehearsal events for system transition
 \begin_inset Newline newline
 \end_inset
 
@@ -341,7 +373,20 @@ resitem
 
 \end_inset
 
- SPOT Awards (2005, 2006), SRA Award (2006), LM21 Six Sigma (2006)
+ Technologies Used: 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+Cplusplus
+\end_layout
+
+\end_inset
+
+ STL, Java, Perl, Oracle, Motif
 \end_layout
 
 \begin_layout Employer
@@ -351,7 +396,7 @@ Lockheed Martin
 \end_layout
 
 \begin_layout Location
-Gaithersburg, MD (GPS IIF)
+Gaithersburg, MD
 \end_layout
 
 \begin_layout Title
@@ -407,112 +452,21 @@ resitem
 
 \end_inset
 
- Promoted to IPT Software Lead to manage 12 developers and direct design
- and implementation using Agile/SCRUM principals
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-resitem
+ Promoted to Software Lead to manage 12 developers and direct design and
+ implementation using Agile/SCRUM principles
 \end_layout
 
-\end_inset
-
- DOD Secret Clearance, December 2003
+\begin_layout Section
+Awards Recognitions
 \end_layout
 
-\begin_layout Employer
+\begin_layout Standard
 
-\series bold
-Naval Postgraduate School
-\end_layout
-
-\begin_layout Location
-Monterey, CA
-\end_layout
-
-\begin_layout Title
-
-\emph on
-Research Assistant
-\end_layout
-
-\begin_layout Dates
-Summer 2002
-\end_layout
-
-\begin_layout Description
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- Initiated set up of a ground station test bed for coordination with Stanford
- Space Development Laboratory's Ground Station Markup Language (GSML) project.
- Received Technician FCC license
-\end_layout
-
-\begin_layout Employer
-
-\series bold
-Duke University Marching Band
-\end_layout
-
-\begin_layout Location
-Durham, NC
-\end_layout
-
-\begin_layout Title
-
-\emph on
-Web Master
-\end_layout
-
-\begin_layout Dates
-May 2001 -- Present
-\end_layout
-
-\begin_layout Description
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- Designed, implemented and maintained custom PHP/MySQL website 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-href{http://www.dukeband.org/}{www.dukeband.org}
-\end_layout
-
-\end_inset
-
-
+\noun on
+Lockheed Martin:
+\noun default
+ Service Recognition Award (2008, 2006), Team Awards (2009, 2005, 2006),
+ Six Sigma (2006)
 \end_layout
 
 \begin_layout Section
@@ -616,20 +570,7 @@ Authentication and Trust in Decentralized Event Notification
 \begin_inset Newline newline
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- Presented at 2003 International Conference on Telecommunications Systems,
+Presented at 2003 International Conference on Telecommunications Systems,
  Modeling and Analysis (Monterey, CA) and published in conference proceedings
 \end_layout
 
@@ -638,19 +579,6 @@ Casual Development
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-resitem
-\end_layout
-
-\end_inset
-
- 
 \begin_inset ERT
 status open
 
