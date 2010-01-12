@@ -4,7 +4,8 @@
 \begin_header
 \textclass resume
 \begin_preamble
-\hypersetup{backref, pdfpagemode=None, colorlinks=true,backref}
+\hypersetup{backref, pdfpagemode=None, colorlinks=true, urlcolor=black}
+\renewcommand{\namefont}{\LARGE\bf}
 \end_preamble
 \options line, margin
 \use_default_options false
@@ -48,7 +49,6 @@
 
 \begin_layout Name
 
-\family roman
 \series medium
 \shape up
 \size normal
@@ -125,20 +125,7 @@ Core Skills
 \noun on
 Languages:
 \noun default
- 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-Cplusplus
-\end_layout
-
-\end_inset
-
-, Java, PHP, Python, Javascript, Perl
+ C++, Java, PHP, Python, Javascript, Perl
 \begin_inset Newline newline
 \end_inset
 
@@ -230,8 +217,8 @@ resitem
 
 \end_inset
 
- Led UI design and implementation to support customer outreach efforts to
- user community
+ Led UI design, implementation and supported customer outreach efforts to
+ the COCOM user community
 \begin_inset Newline newline
 \end_inset
 
@@ -248,8 +235,8 @@ resitem
 
 \end_inset
 
- Coordinated prototyping across multiple software teams for integrated early
- functional prototype release
+ Coordinated prototyping efforts across multiple software teams for early
+ integrated release
 \begin_inset Newline newline
 \end_inset
 
@@ -320,7 +307,7 @@ resitem
 
 \end_inset
 
- TMOS Deputy Software Lead - Managed technical content and led integration
+ TMOS Deputy Software Lead - Managed technical content, schedule and integration
  efforts
 \begin_inset Newline newline
 \end_inset
@@ -356,7 +343,8 @@ resitem
 
 \end_inset
 
- Supported on-site customer test and rehearsal events for system transition
+ Supported on-site customer test and rehearsal events for the operational
+ system transition
 \begin_inset Newline newline
 \end_inset
 
@@ -373,20 +361,7 @@ resitem
 
 \end_inset
 
- Technologies Used: 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-Cplusplus
-\end_layout
-
-\end_inset
-
- STL, Java, Perl, Oracle, Motif
+ Technologies Used: C++ STL, Java, Perl, Oracle, Motif
 \end_layout
 
 \begin_layout Employer
@@ -422,20 +397,7 @@ resitem
 
 \end_inset
 
- Developed 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-Cplusplus
-\end_layout
-
-\end_inset
-
- client/server software for GPS IIF program
+ Developed C++ client/server software for GPS IIF program
 \begin_inset Newline newline
 \end_inset
 
@@ -452,8 +414,8 @@ resitem
 
 \end_inset
 
- Promoted to Software Lead to manage 12 developers and direct design and
- implementation using Agile/SCRUM principles
+ Promoted to Software Lead to manage 12 developers.
+ Managed design, implementation and schedule using Agile/SCRUM principles
 \end_layout
 
 \begin_layout Section
@@ -523,20 +485,8 @@ resitem
 
 \end_inset
 
- CS Coursework: Advanced program design in C, 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-Cplusplus
-\end_layout
-
-\end_inset
-
-, Java; computer architecture, operating systems, networking, web technologies
+ CS Coursework: Advanced program design in C, C++, Java; computer architecture,
+ operating systems, networking, web technologies
 \begin_inset Newline newline
 \end_inset
 
@@ -586,12 +536,55 @@ status open
 
 
 \backslash
+resitem
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
 href{http://wwww.isupergp.com/}{www.isupergp.com}
 \end_layout
 
 \end_inset
 
  Mobile web application (iPhone, WebKit) for password management
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+resitem
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+href{http://www.dukeband.org/}{www.dukeband.org}
+\end_layout
+
+\end_inset
+
+ Custom portal and web application
 \end_layout
 
 \begin_layout Section
