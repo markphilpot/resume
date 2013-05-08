@@ -4,6 +4,7 @@ all: pdf open
 
 clean:
 	rm -rf resume.pdf
+	rm -rf *.log
 
 pdf:
 	texi2pdf -I moderncv -c resume.tex
