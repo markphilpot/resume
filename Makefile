@@ -1,6 +1,6 @@
 
 
-all: pdf open
+all: clean pdf open
 
 clean:
 	rm -rf resume.pdf
